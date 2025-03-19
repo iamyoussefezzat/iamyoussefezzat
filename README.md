@@ -33,8 +33,6 @@
 ### **1️⃣ [E-commerce Store – PERN Stack](https://github.com/iamyoussefezzat/store-pern_stack)**
 > A complete e-commerce web app using **React, Node.js, and PostgreSQL**, with a RESTful API.
 
-### **2️⃣ Another Project (Add Your Project Here)**
-> Brief description of the project.
 
 ---
 
@@ -49,10 +47,8 @@
 ---
 
 ## 📫 Contact Me  
-📧 **Email**: youssef@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/iamyoussefezzat](https://www.linkedin.com/in/iamyoussefezzat)  
-🐦 **Twitter**: [@iamyoussef](https://twitter.com/iamyoussef)  
-
+📧 **Email**: youssefm.ezzat99@gmail.com  
+🔗 **LinkedIn**: https://www.linkedin.com/in/youssef-m-ezzat-63412b300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   
 ---
 
 🎯 *"Technology is not just about tools, it's about creativity and change!"* 🚀
