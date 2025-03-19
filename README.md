@@ -1,11 +1,58 @@
+<h1 align="center">👋 مرحبًا، أنا يوسف عزت</h1>
 
-<h1 align="center">Hi 👋, I'm Youssef M.Ezzat</h1>
-<h3 align="center">A motivated software Developer 💻 </h3>
-
-- 📫 How to reach me **youssefm.ezzat99@gmail.com**
-
-<p align="left">
+<p align="center">
+  مطور ويب ومبرمج iOS، مهتم بتطوير التطبيقات الحديثة باستخدام <br>
+  JavaScript, React, Node.js, و Swift 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 💡 نبذة عني  
+- 💻 لدي خبرة في **تطوير الويب باستخدام PERN Stack** (PostgreSQL, Express, React, Node.js).  
+- 🍏 أتعلم حاليًا **تطوير تطبيقات iOS باستخدام Swift و SwiftUI**.  
+- 🎯 هدفي هو تطوير تطبيقات حديثة بأداء عالي وتجربة مستخدم مميزة.  
+- 📚 أدرس حاليًا دورة **CS50** من جامعة هارفارد لتقوية مهاراتي في علوم الكمبيوتر.  
+
+---
+
+## 🛠️ المهارات والتقنيات  
+### **🌐 تطوير الويب**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### **📱 تطوير تطبيقات iOS**
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat&logo=apple&logoColor=white)
+
+---
+
+## 📌 المشاريع المميزة  
+### **1️⃣ [متجر إلكتروني – PERN Stack](https://github.com/iamyoussefezzat/store-pern_stack)**
+> متجر إلكتروني كامل باستخدام **React, Node.js, PostgreSQL** مع REST API.
+
+### **2️⃣ مشروع آخر (ضيف مشروعك هنا)**
+> وصف مختصر للمشروع.
+
+---
+
+## 📊 إحصائيات GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamyoussefezzat&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyoussefezzat&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 📫 كيف تتواصل معي؟  
+📧 **Email**: youssef@example.com  
+🔗 **LinkedIn**: [linkedin.com/in/iamyoussefezzat](https://www.linkedin.com/in/iamyoussefezzat)  
+🐦 **Twitter**: [@iamyoussef](https://twitter.com/iamyoussef)  
+
+---
+
+🎯 *"التكنولوجيا ليست مجرد أدوات، بل طريقة للتغيير والإبداع!"* 🚀
