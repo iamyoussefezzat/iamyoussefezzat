@@ -41,7 +41,7 @@ Git · GitHub · VS Code · Unit Testing · Agile / SCRUM · CI/CD basics
 ## 📞 Contact Me  
 - 📧 Email: youssefm.ezzat99@gmail.com  
 - 🔗 LinkedIn: [Youssef M. Ezzat](https://www.linkedin.com/in/youssef-m-ezzat-63412b300)
-- 👨 X : (https://x.com/YOUSSEF12242326)
+- 👨 X : https://x.com/YOUSSEF12242326
 > “Technology is not just about tools, it’s about creativity and change.”  
 
 ---
