@@ -1,54 +1,50 @@
-<h1 align="center">👋 Hi, I'm Youssef Ezzat</h1>
+# Hi there 👋 I’m [**Youssef M. Ezzat**](https://github.com/iamyoussefezzat)
 
-<p align="center">
-  A passionate Web Developer & iOS Programmer 🚀<br>
-  Skilled in JavaScript, React, Node.js, Swift, and more!
-</p>
+A passionate Web & iOS Developer who loves building high-performance applications with great user experience.
 
 ---
 
-## 💡 About Me  
-- 💻 Experienced in **web development using PERN Stack** (PostgreSQL, Express, React, Node.js).  
-- 🍏 Currently learning **iOS development with Swift and SwiftUI**.  
-- 🎯 Passionate about building high-performance applications with great user experience.  
-- 📚 Studying **CS50 by Harvard** to strengthen my computer science fundamentals.  
+## 🌟 About Me  
+- Skilled in **JavaScript / React / Node.js / Express / PostgreSQL** working with the PERN stack.  
+- Currently studying **iOS development** with **Swift** and **SwiftUI**.  
+- Strong believer in continuous learning: actively engaged with :contentReference[oaicite:0]{index=0} by :contentReference[oaicite:1]{index=1} to enhance computer science fundamentals.  
+- I love solving real-world problems through code and constantly refine my workflow, architecture and design sense.
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-### **🌐 Web Development**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+## 🧰 Tech Stack & Skills  
+### Web Development  
+| Frontend | Backend | Database |
+|----------|---------|----------|
+| JavaScript · React · HTML · CSS · TypeScript | Node.js · Express · REST APIs | PostgreSQL · SQL |
 
-### **📱 iOS Development**
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat&logo=apple&logoColor=white)
+### iOS / Mobile  
+Swift · SwiftUI · UIKit · Xcode
 
----
-
-## 📌 Featured Projects  
-### **1️⃣ [E-commerce Store – PERN Stack](https://github.com/iamyoussefezzat/store-pern_stack)**
-> A complete e-commerce web app using **React, Node.js, and PostgreSQL**, with a RESTful API.
-
+### Tools & Practices  
+Git · GitHub · VS Code · Unit Testing · Agile / SCRUM · CI/CD basics
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamyoussefezzat&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyoussefezzat&theme=radical" alt="GitHub Streak">
-</p>
+## 🎯 Featured Projects  
+Here are a few of my top projects. For full list, check my GitHub repos.  
+- **[E-Commerce Store – PERN Stack](https://github.com/iamyoussefezzat/store-pern_stack)**: Full-stack web app with React frontend, Node/Express backend and PostgreSQL database.  
+- **[Simple Quiz (Pure JS)](https://github.com/iamyoussefezzat/simple-quiz_pure)**: Lightweight quiz game made with vanilla JavaScript, HTML & CSS — great exercise in fundamentals and UI/UX.  
+- **[Calculator App (Vanilla JS)](https://github.com/iamyoussefezzat/calc)**: Clean, responsive calculator built from scratch to practice logic, UI and JavaScript architecture.
 
 ---
 
-## 📫 Contact Me  
-📧 **Email**: youssefm.ezzat99@gmail.com  
-🔗 **LinkedIn**: https://www.linkedin.com/in/youssef-m-ezzat-63412b300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   
+## 📈 GitHub Stats  
+![Youssef’s GitHub stats](https://github-readme-stats.vercel.app/api?username=iamyoussefezzat&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyoussefezzat&layout=compact&theme=github_dark)
+
 ---
 
-🎯 *"Technology is not just about tools, it's about creativity and change!"* 🚀
+## 📞 Contact Me  
+- 📧 Email: youssefm.ezzat99@gmail.com  
+- 🔗 LinkedIn: [Youssef M. Ezzat](https://www.linkedin.com/in/youssef-m-ezzat-63412b300)  
+> “Technology is not just about tools, it’s about creativity and change.”  
+
+---
+
+Thank you for visiting my profile — feel free to explore my work, clone my repos, follow me, or reach out if you want to collaborate! ⭐  
