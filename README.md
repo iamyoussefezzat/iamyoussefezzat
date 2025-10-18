@@ -7,9 +7,8 @@ A passionate Web & iOS Developer who loves building high-performance application
 ## 🌟 About Me  
 - Skilled in **JavaScript / React / Node.js / Express / PostgreSQL** working with the PERN stack.  
 - Currently studying **iOS development** with **Swift** and **SwiftUI**.  
-- Strong believer in continuous learning: actively engaged with :contentReference[oaicite:0]{index=0} by :contentReference[oaicite:1]{index=1} to enhance computer science fundamentals.  
-- I love solving real-world problems through code and constantly refine my workflow, architecture and design sense.
-
+- Currently leveling up my CS skills with Harvard’s CS50 by Harvard to enhance computer science fundamentals.
+- 
 ---
 
 ## 🧰 Tech Stack & Skills  
@@ -28,10 +27,7 @@ Git · GitHub · VS Code · Unit Testing · Agile / SCRUM · CI/CD basics
 
 ## 🎯 Featured Projects  
 Here are a few of my top projects. For full list, check my GitHub repos.  
-- **[E-Commerce Store – PERN Stack](https://github.com/iamyoussefezzat/store-pern_stack)**: Full-stack web app with React frontend, Node/Express backend and PostgreSQL database.  
-- **[Simple Quiz (Pure JS)](https://github.com/iamyoussefezzat/simple-quiz_pure)**: Lightweight quiz game made with vanilla JavaScript, HTML & CSS — great exercise in fundamentals and UI/UX.  
-- **[Calculator App (Vanilla JS)](https://github.com/iamyoussefezzat/calc)**: Clean, responsive calculator built from scratch to practice logic, UI and JavaScript architecture.
-
+**[Flick](https://github.com/iamyoussefezzat/store-pern_stack](https://github.com/iamyoussefezzat/Flick)**: (X-Clone) Full-stack web app with React frontend, Node/Express backend and Mongo database.  
 ---
 
 ## 📈 GitHub Stats  
