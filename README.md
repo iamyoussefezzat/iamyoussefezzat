@@ -18,7 +18,7 @@ A passionate Web & iOS Developer who loves building high-performance application
 | JavaScript · React · HTML · CSS · TypeScript | Node.js · Express · REST APIs | PostgreSQL · SQL |
 
 ### iOS / Mobile  
-Swift · SwiftUI · UIKit · Xcode
+Swift · SwiftUI · UIKit · Xcode / React-Native . expo
 
 ### Tools & Practices  
 Git · GitHub · VS Code · Unit Testing · Agile / SCRUM · CI/CD basics
