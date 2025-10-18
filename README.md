@@ -8,7 +8,7 @@ A passionate Web & iOS Developer who loves building high-performance application
 - Skilled in **JavaScript / React / Node.js / Express / PostgreSQL** working with the PERN stack.  
 - Currently studying **iOS development** with **Swift** and **SwiftUI**.  
 - Currently leveling up my CS skills with Harvard’s CS50 by Harvard to enhance computer science fundamentals.
-- 
+
 ---
 
 ## 🧰 Tech Stack & Skills  
