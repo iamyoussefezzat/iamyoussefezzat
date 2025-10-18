@@ -14,7 +14,7 @@ A passionate Web & iOS Developer who loves building high-performance application
 ## 🧰 Tech Stack & Skills  
 ### Web Development  
 | Frontend | Backend | Database | Testing |
-|----------|---------|----------|
+|----------|---------|----------|---------|
 | JavaScript · React · HTML · CSS · TypeScript | Node.js · Express · REST APIs | PostgreSQL · SQL . Mongo| PostMan |
 
 ### iOS / Mobile  
