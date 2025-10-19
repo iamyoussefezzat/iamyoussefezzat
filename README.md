@@ -1,6 +1,7 @@
 # Hi there 👋 I’m **Youssef M. Ezzat**
 
-Software Developer | Web & Mobile Developer 
+Software Developer | Web & Mobile Developer.
+
 📚 Currently leveling up my CS skills with Harvard’s CS50 by Harvard
 
 
