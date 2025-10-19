@@ -1,6 +1,8 @@
-# Hi there 👋 I’m [**Youssef M. Ezzat**](https://github.com/iamyoussefezzat)
+# Hi there 👋 I’m **Youssef M. Ezzat**
 
-A passionate Web & iOS Developer who loves building high-performance applications with great user experience.
+Software Developer | Web & Mobile Developer 
+📚 Currently leveling up my CS skills with Harvard’s CS50 by Harvard
+
 
 ---
 
