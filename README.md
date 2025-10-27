@@ -1,6 +1,6 @@
-# Hi there 👋 I’m **Youssef M. Ezzat**
+<h2 aligh="center"> # Hi there 👋 I’m **Youssef M. Ezzat** </h2>
 
-Software Developer | Web & Mobile Developer.
+Software Developer | Web & Mobile and Desktop Developer
 
 📚 Currently leveling up my CS skills with Harvard’s CS50 by Harvard
 
