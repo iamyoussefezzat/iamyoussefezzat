@@ -1,4 +1,4 @@
-<h2 aligh="center"> # Hi there 👋 I’m **Youssef M. Ezzat** </h2>
+<h2 align="center">  Hi there 👋 I’m Youssef M. Ezzat </h2>
 
 Software Developer | Web & Mobile and Desktop Developer
 
