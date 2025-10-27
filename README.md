@@ -20,8 +20,8 @@ Software Developer | Web & Mobile and Desktop Developer
 |----------|---------|----------|---------|
 | JavaScript · React · HTML · CSS · TypeScript | Node.js · Express · REST APIs | PostgreSQL · SQL . Mongo| PostMan |
 
-### iOS / Mobile  
-Swift · SwiftUI · UIKit · Xcode / React-Native . expo
+### iOS / Mobile / Desktop
+Swift · SwiftUI · UIKit · Xcode / React-Native . expo / Electronjs
 
 ### Tools & Practices  
 Git · GitHub · VS Code · Unit Testing · Agile / SCRUM · CI/CD basics
@@ -30,8 +30,7 @@ Git · GitHub · VS Code · Unit Testing · Agile / SCRUM · CI/CD basics
 
 ## 🎯 Featured Projects  
 > Here are a few of my top projects. For full list, check my GitHub repos.
-> 
-[Flick](https://github.com/iamyoussefezzat/Flick) : (X-Clone) Full-stack web app with React frontend, Node/Express backend and Mongo database.  
+> [Flick](https://github.com/iamyoussefezzat/Flick) : (X-Clone) Full-stack web app with React frontend, Node/Express backend and Mongo database.  
 
 ---
 
