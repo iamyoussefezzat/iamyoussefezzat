@@ -1,6 +1,6 @@
-<h2 align="center">  Hi there 👋 I’m Youssef M. Ezzat </h2>
+<h2 align="center">   I’m Youssef M. Ezzat </h2>
 
-Software Developer | Web & Mobile and Desktop Developer
+Fullstack dev (React + Node + Postgres) — building real products for 3 years. Currently learning Swift for iOS. Open to freelance work.
 
 📚 Currently leveling up my CS skills with Harvard’s CS50 by Harvard
 
